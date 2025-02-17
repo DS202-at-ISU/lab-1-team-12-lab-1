@@ -15,5 +15,70 @@ Follow the instructions posted at https://ds202-at-isu.github.io/labs.html for t
 
 Include your answers in this document (Rmd file). Make sure that it knits properly (into the md file). Upload both the Rmd and the md file to your repository.  
 
+---
+
+## Team Information
+- **Team Name:** Lab 1 Team 12
+- **Team Members:**
+  - Aden Koziol
+  - Ash Bhuiyan *(Edited Rmd File - 2/16/2025)*
+  - Harsh Mishrikotkar
+  - Naman Chandak
+
+## Overview
+This lab involves learning and practicing version control using Git and GitHub through RStudio. The key objectives are:
+- Setting up GitHub Classroom
+- Cloning a repository
+- Committing and pushing changes
+- Resolving errors and documenting the process
+
+## Steps Followed
+
+### 1. Getting Started
+- Identified team members and formed a group.
+- Accessed the instructions via Canvas and the provided GitHub link.
+
+### 2. GitHub Repository Setup
+- Accepted the GitHub Classroom invitation and logged in.
+- Verified whether our team number existed; found and joined our team (Team-12).
+
+### 3. Connecting RStudio to GitHub
+- Ensured prerequisites were met (Git installed, RStudio configured, GitHub account created).
+- Created a new repository on GitHub and cloned it to our local machine using RStudio.
+
+### 4. Making Changes Locally
+- Opened `README.md` in RStudio.
+- Added a line: "This is a line from RStudio."
+- Staged and committed the change with the message: "Commit from RStudio by Ash Bhuiyan."
+
+### 5. Pushing Changes to GitHub
+- Used RStudio’s Git panel to push changes to the remote repository.
+- Verified the update by checking GitHub’s commit history.
+
+### 6. Handling Errors
+- Documented encountered issues, such as authentication problems and merge conflicts.
+- Provided solutions, including setting up SSH keys and resolving merge conflicts manually.
+
+## Error Documentation
+| Step | Issue Encountered | Solution |
+|------|-----------------|----------|
+| Cloning Repo | Authentication failure | Set up Git credentials correctly |
+| Committing Changes | Merge conflicts | Resolved by manual merge and commit |
+| Pushing Updates | Permission denied | Ensured correct access rights |
+
+## Conclusion
+This lab successfully introduced Git and GitHub through RStudio. We learned how to:
+- Set up and use Git within RStudio.
+- Collaborate effectively using GitHub Classroom.
+- Troubleshoot common Git errors.
+
+## Submission
+- Ensured that `README.Rmd` properly knits to `README.md`.
+- Uploaded both `.Rmd` and `.md` files to the GitHub repository.
+- Submitted the repository link on Canvas for grading.
+
+---
+
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed.
 Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
+
